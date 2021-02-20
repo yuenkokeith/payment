@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\common",
+    "\\common\\models",
+    "\\frontend",
+    "\\frontend\\controllers",
+    "\\frontend\\views",
+    "\\frontend\\views\\check-payment",
+    "\\frontend\\views\\create-payment",
+    "\\frontend\\views\\site",
+    "\\frontend\\web"
+  ],
+  "SelectedNode": "\\frontend\\controllers\\CheckPaymentController.php",
+  "PreviewInSolutionExplorer": false
+}
